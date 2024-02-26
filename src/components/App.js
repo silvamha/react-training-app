@@ -1,5 +1,9 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import logo from '../logo.svg';
+import '../App.css';
+// Removed unused import
+
+
 
 function App() {
   return (
